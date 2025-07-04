@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -30,7 +30,7 @@
   }
 </style>
 </head>
-<body>
+<body> -->
 
 <h1>Intelligent CI/CD Pipeline Failure Predictor</h1>
 
@@ -59,5 +59,5 @@
 <h2>What you get:</h2>
 <p>A smart alert system that helps your team stay ahead of build failures, saving time and boosting development velocity.</p>
 
-</body>
-</html>
+<!-- </body>
+</html> -->
